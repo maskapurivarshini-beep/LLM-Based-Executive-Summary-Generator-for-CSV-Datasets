@@ -27,7 +27,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kanitvural/data_analyzer_app_with_llm_agents.git
+    git clone https://github.com/maskapurivarshini-beep/-LLM-Based-Executive-Summary-Generator-for-CSV-Datasets
     cd data_analyzer_app_with_llm_agents
     python -m venv venv
     - Windows: venv\Scripts\activate
