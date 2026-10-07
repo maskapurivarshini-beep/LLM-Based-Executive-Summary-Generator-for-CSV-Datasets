@@ -3,7 +3,7 @@
 
 # Data Analyzer with LLM Agents
 
-**Data Analyzer with LLM Agents** is an intelligent application designed to analyze CSV files using advanced language models. The app leverages LangChain agents in the background to enable seamless analysis and provides the flexibility to choose from a range of Large Language Models (LLMs) such as Gemini, Claude, or GPT. With this tool, you can generate descriptive statistics for any uploaded dataset, visualize columns, and even ask questions about your data—getting answers powered by LLMs.
+**Data Analyzer with LLM Agents** is an intelligent application designed to analyze CSV files using advanced language models. The app leverages LangChain agents in the background to enable seamless analysis and provides the flexibility to choose from a range of Large Language Models (LLMs) such as Gemini, Claude, or GPT. With this tool, you can generate descriptive statistics for any uploaded dataset, visualize columns, and even ask questions about your data getting answers powered by LLMs.
 
 ## Features
 
